@@ -1,4 +1,4 @@
-R Analytics with SQL and Power BI
+HR Analytics with SQL and Power BI
 Table of Contents
 Project Background
 Data Source, North Star Metrics, and Dimensions
